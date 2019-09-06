@@ -1,8 +1,8 @@
-#CS512 Project:
+# CS512 Project:
 
-##Alex Szilagyi, Avichel Verma
+## Alex Szilagyi, Avichel Verma
 
-##Code Directories:
+## Code Directories:
 
 1. /src/ - Contains the python code
    code.py - contains custom implementation as discussed in the paper
